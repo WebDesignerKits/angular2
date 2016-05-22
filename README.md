@@ -10,7 +10,7 @@ Start watching your src with Gulp
 ```
 gulp
 ```
-Start your live server
+Open a new terminal and start your live server
 ```
 cd live
 npm install
