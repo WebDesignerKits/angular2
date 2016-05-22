@@ -17,3 +17,4 @@ npm install
 npm start
 ```
 Now edit the src code, which automatically builds to the live folder
+The server will run on http://localhost:3000/
