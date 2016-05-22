@@ -16,4 +16,4 @@ cd live
 npm install
 npm start
 ```
-
+Now edit the src code, which automatically builds to the live folder
